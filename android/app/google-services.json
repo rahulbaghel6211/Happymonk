@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274360838291",
+    "project_id": "tripplanner-b6c1b",
+    "storage_bucket": "tripplanner-b6c1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274360838291:android:89be693ad1607dd1cd8566",
+        "android_client_info": {
+          "package_name": "com.happymonk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4PVip8ss2L0gbji3xVUxQVIYl-z24Rtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
